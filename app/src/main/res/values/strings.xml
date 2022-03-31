@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="please_wait">Please Wait...</string>
+    <string name="snowflake">snowflake</string>
+    <string name="humidity" />
+    <string name="temperature" />
+    <string name="wind" />
+    <string name="miles_hour">miles/hour</string>
+    <string name="location">location</string>
+    <string name="Sunrise" />
+    <string name="Sunset" />
+    <string name="refresh">Refresh</string>
+</resources>
